@@ -1,12 +1,20 @@
 # Movies_recommender_system
 📋 Table of Contents
+
 🤖 Introduction
+
 ⚙️ Tech Stack
+
 🔋 Features
+
 🤸 Core Functionality
+
 🔗 Assets
+
 🚀 More
+
 🤖 Introduction
+
 The Movie Recommendation System is a smart, user-centric application that suggests movies based on user preferences, viewing history, and similar user behavior. It employs machine learning and filtering techniques to deliver personalized entertainment options efficiently.
 
 ⚙️ Tech Stack
